@@ -1,0 +1,3 @@
+#!/bin/sh
+pandoc --citeproc paper.md --standalone -o index.html
+git add index.html
