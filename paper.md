@@ -1,8 +1,8 @@
 ---
-title: Your title
-subtitle: A brief description
-author: Jon Doe
-date: 2020-11-11
+title: Scrum Rollen im Team
+subtitle: Welche Entwicklungspraktiken sind für ein Scrum Team aktuell besonders relevant?
+author: Lucas Schmidt
+date: Wintersemester 2020/2021
 fontsize: 11pt
 numbersections: true
 listings: true
@@ -11,6 +11,12 @@ csl: chicago-author-date.csl
 ---
 
 ## Introduction
+
+Thema 3: Scrum - Rollen. Scrum Team. Welche Entwicklungspraktiken sind für ein Scrum Team aktuell
+besonders relevant (Versionone 2020)? Stellen Sie 2-3 im Detail vor!
+* Was ist überhaupt eine efolgreiche Praktik im Development?
+* Welche Praktiken werden aus aktueller Sicht häufig angewandt und warum?
+* Welche Kosten sind mit den Praktiken verbunden?
 
 "This is a quote." [@nagy2018discovery]
 
