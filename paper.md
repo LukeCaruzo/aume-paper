@@ -2,7 +2,7 @@
 title: Scrum Rollen im Team
 subtitle: Welche Entwicklungspraktiken sind für ein Scrum Team aktuell besonders relevant?
 author: Lucas Schmidt
-date: Wintersemester 2020/2021
+date: 2021-01-11
 fontsize: 11pt
 numbersections: true
 listings: true
