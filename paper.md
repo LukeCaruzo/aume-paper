@@ -18,7 +18,9 @@ besonders relevant (Versionone 2020)? Stellen Sie 2-3 im Detail vor!
 * Welche Praktiken werden aus aktueller Sicht häufig angewandt und warum?
 * Welche Kosten sind mit den Praktiken verbunden?
 
-"This is a quote." [@nagy2018discovery]
+"This is a quote." [@2018discovery]
+
+"This is a quote." [@2020scrumguide]
 
 ## Second Chapter
 
