@@ -68,44 +68,44 @@ Im mittleren Teil des Sprints gibt es die Daily Scrum Meetings. Diese sind nöti
 Um den Sprint abzuschließen findet am Ende dieses die Sprint Review statt. Dabei wird das Ergebnis des Sprints überprüft und für die künftigen Sprints anpassungen vorgenommen. Dabei werden die Ergebnisse des Sprints durch das Entwicklerteam präsentiert. 
 Daraufhin folgt die Sprint Retrospektive, diese ist dazu da, den Verlauf zur Steigerung der Qualität und Effektivität zu planen. Dazu wird überprüft, wie der Sprint im Bezug auf Interaktionen, Individuen, Prozesse und Werkzeuge verlief. Probleme dabei werden identifiziert und die Ursachen dafür erforscht, um diese im kommenden Sprint zu verbessern. Nach der Sprint Retrospektive ist der Sprint endgültig abgeschlossen. [@2020scrumguide]
 
-# Rollen in Scrum
+## Rollen in Scrum
 Für das Scrum Framework gibt es drei Rollen, den/die Product Owner/in, den/die Scrum Master/in und den/die Entwickler/in, beziehungsweise das Entwicklerteam. Dieses Scrum Team ist selbstorganisierend und interdisziplinär. Außerdem hat das Scrum Team die Fähigkeit sich selbstständig zu managen. Es teilt ein gemeinsames Ziel, das Produkt-Ziel. 
 Dieses Scrum Team ist klein genug, dass es flexibel bleibt und groß genug, damit innerhalb eines Sprintsabschnittes ein bedeutsames Zwischenziel zu erreichen. Üblicherweise besteht es aus maximal 10, beziehungsweise weniger personen. Es wurde festgestellt, dass kleinere Teams besser kommunizieren und auch produktiver sind. Bei einem zu großen Scrum Team, sollte man sich in Erwägung ziehen dieses in mehrere kleinere zusammengehörende Scrum Teams zu reorganisieren. Dabei sollte die Produktvision nicht aus den Augen verloren werden, das heisst, dass sie sich das Produkt-Ziel, den Product Backlog und der/die Product Owner/in teilen.
 Es besteht eine ergebnisverantwortlichkeit zwischen dem Scrum Team und den produktbezogenen Aktivitäten. Darunter befinden sich die Verifikation, die Wartung, der Betrieb, die Experimente, die Forschung und die Entwicklung. Durch den geschickten organisatorischen Aufbau ist es einfach möglich seine Arbeit selbst zu steuern. Durch die Struktur des Projekts in Sprintabläufe mit nachhaltiger Geschwindigkeit wird der Fokus und die Kontinuität des Teams stetig verbessert.
 Das Scrum Team ist außerdem eigenverantwortlich in jedem Sprint ein wertvolles Inkrement zu schaffen. Dafür gibt es innerhalb des Scrum Teams die drei spezifischen Rollen, den/die Product Owner/in, den/die Scrum Master/in und den/die Entwickler/in. [@2020scrumguide]
 
-## Product Owner/in
+### Product Owner/in
 
 Der/die Product Owner/in sind die Eigentlichen verantwortlichen innerhalb des Scrum Teams. Dabei steht die Maximierung des Wertes des Produkts im Vordergrund. 
 Das Product-Backlog-Management gehört zu den Hauptaufgaben des/der Product Owner/in. Dies umfasst das Produkt-Ziel zu entwickeln und klar zu kommunizieren. Dazu gehört das Erstellen der Product-Backlog-Einträge und genau zu kommunizieren. Dabei muss er auch die Reihenfolge dieser Product-Backlog-Einträge festlegen, um sicherzustellen, dass dieser sichtbar, transparent und verständlich ist. Ob der/die Product Owner/in die oben genannten Aufgaben selbst erfüllt oder sie delegiert, bleibt ihm überlassen. Jedoch bleibt die Verantwortlichkeit dessen bei ihm. 
 Um erfolgreich zu sein, muss die gesamte Organisation des/der Product Owners/in respektiert werden. Dies lässt sich durch das Überprüfen des Inkrements bei der Sprint Review nachverfolgen.
 Bei dem/der Product Owner/in handelt es sich um eine Einzelperson, kein gremium. Dieser ist Ansprechpartner für die Stakeholder/innen, welcher ihre Bedürfnisse im Product Backlog berücksichtigt. Um Änderungen am Product Backlog zu erzeugen, müssen sich diese mit dem/der Product Owner/in besprechen und ihn/sie überzeugen. [@2020scrumguide]
 
-## Scrum Master/in
+### Scrum Master/in
 
 Der/die Scrum Master/in muss die Durchführung des Scrum Guide betreuen. Dabei hilft er den Teilnehmer/innen die Scrum-Theorie, sowie -Praxis umzusetzen und zu verstehen. Dies betrifft die Organisation, sowie das Scrum Team an sich. Dies dient der Steigerung der Effektivität des Scrum Teams. Daher sind sie echte Führungskräfte, welche dem Scrum Team und der Gesamtorganisation dienen. [@2020scrumguide]
 
-### Bedeutung für den/die Product Owner/in
+#### Bedeutung für den/die Product Owner/in
 
 Der/die Scrum Master/in unterstützt den/die Product Owner/in auf verschiedenste Weisen. Darunter befindet sich die Suche nach Techniken für die effektivste Definition des Produkt-Ziels und die Hilfe beim Product-Backlog-Management. Unter anderem hilft er dem Scrum Team die Einträge im Product-Backlog zu verstehen und dessen Notwendigkeit zu präzisieren. Er hilft außerdem bei der Etablierung einer empirischen Produktplanung. Die Zusammenarbeit zwischen dem/der Product Owner/in und den Stakeholdern wird ebenfalls nach Wunsch oder Bedarf gesteigert. [@2020scrumguide]
 
-### Bedeutung für das Entwicklerteam
+#### Bedeutung für das Entwicklerteam
 
 Die Unterstützung des/der Product Owners/in für das Entwicklerteam wird durch verschiedenste Techniken umgesetzt. Dabei hilft er den Entwicklern sich in Selbstmanagement und interdisziplinärer Zusammenarbeit zu verbessern. Den Fokus auf die Schaffung von einem Inkrement zu unterstützen, welche sich auf die Definition of Done stützen. Er beseitigt ebenfalls Hindernisse des Teams, die den Fortschritt behindern. Das Zeitmanagement wird von ihm überwacht, damit die Scrum Events stattfinden und diese innerhalb der vorgegebenen Timeboxen bleiben. [@2020scrumguide]
 
-### Bedeutung für das Organisieren
+#### Bedeutung für das Organisieren
 
 Die Organisation im Scrum Team wird auf verschiedenen Wegen durch den/die Scrum Master/in gestützt. Der/die Scrum Master/in leitet die Organisation bei der Einführung von Scrum, um die Teilnehmer zu schulen. Er ist ebenfalls dafür verantwortlich die Einführung von Scrum in der Organisation zu planen und zu empfehlen. Die Stakeholder/innen werden beim Verständnis und bei der Umsetzung für komplexe Arbeit von dem/der Scrum Master/in unterstützt. Ebenfalls wird durch ihn die Barriere zwischen Stakeholder/innen und dem Entwicklerteam aufgelöst. [@2020scrumguide]
 
-## Entwickler/in
+### Entwickler/in
 
 Die Hauptaufgabe der Entwickler/innen ist, in jedem Sprint einen nutzbaren Inkrement zu schaffen. Je nach Arbeitsumfeld sind die spezifischen Fähigkeiten der Entwickler breit gefächert. Dabei sind sie verantwortlich den Plan des Sprints zu erstellen, nämlich den Sprint Backlog. Sie müssen ebenfalls die Qualität sichern, welches sie durch die Einhaltung der Definition of Done machen. Des weiteren wird von ihnen täglich der Plan zur Erreichung des Sprint-Ziels angepasst. Durch ihr Wissen, können sie sich wechselseitig als Expert/innen zur Verantwortung gezogen werden. [@2020scrumguide]
 
-### Grösse des Teams
+#### Grösse des Teams
 
 Die Größe eines Scrum teams ist von hoher Bedeutung. Es sollte aus minimal drei und maximal neun Mitgliedern bestehen. Man muss dabei beachten, dass durch steigende Teamgröße sich der Koordinationsaufwand erheblich steigert. Jedoch muss es groß genug sein, um alle Kompetenzen in sich zu vereinigen. Bei grösseren Teams muss zu erweiternden Frameworks gegriffen werden. [@2020scrumwiki]
 
-## Stakeholder/innen
+### Stakeholder/innen
 
 Eigentlich sind die Stakeholder/innen Rollen außerhalb von Scrum, jedoch werden sie hier des Verständnisses halber aufgelistet. Unter ihnen befinden sich die Kunden, die Anwender/innen und das Management. Die Kommunikation zwischen dem Scrum Team und den Stakeholder/innen wird durch den/die Product Owner/in gestärkt und geleitet. [@2020scrumwiki]
 
