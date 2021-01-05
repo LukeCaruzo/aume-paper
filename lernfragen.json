@@ -1,0 +1,26 @@
+{
+    "fragen":[
+       {
+          "text":"text",
+          "bereich":"scrum",
+          "level":"mittel",
+          "antworten":[
+             {
+                "text":"text",
+                "korrekt":false,
+                "warum":"text"
+             },
+             {
+                "text":"text",
+                "korrekt":false,
+                "warum":"text"
+             },
+             {
+                "text":"text",
+                "korrekt":true,
+                "warum":"text"
+             }
+          ]
+       }
+    ]
+ }
