@@ -179,18 +179,40 @@ Im Scrum Kontext kann es sehr schnell vorkommen, dass das Team verteilt ist und 
 
 ## Erfolgreiche Praktiken in der Entwicklung
 
-Was ist überhaupt eine erfolgreiche Praktik in der Entwicklung?
+Eine erfolgreiche Praktik in der Entwicklung ist eine, die das Entwicklungsgeschehen, sowie das Scrum Team verbessert und unterstützt. Dabei ist es wichtig, dass das Entwicklungsteam diese effizient und korrekt nutzt. Bei fehlerhafter Nutzung kann eine eigentlich erfolgreiche Praktik genau im gegenteiligen Wirken.
+In dieser Arbeit wurden speziell drei Entwicklungspraktiken, nämlich die testgetriebene Entwicklung, die modellgetriebene Entwicklung und die verteilte Entwicklung, rausgesucht und im Scrum Kontext erläutert. 
+Dazu gehört die testgetriebene Entwicklung, welche ein stetiges Inkrement durch das vordefinieren des Codes als Tests ermöglicht. Bei einer korrekten Anwendung hat man daher den Vorteil, erstens ein stetiges Inkrement vorzuweisen und zweitens direkt eine hohe Testabdeckung für den Quellcode vorweisen zu können. Das praktische dabei ist außerdem, dass beim Bearbeiten einer User Story durch einen Entwickler die Designentscheidungen nach und nach stattfinden und somit effektiver mit dem Product Owner kommuniziert werden können. Dabei ist außerdem bei jedem Entwickler die unabhängige Arbeit gefördert. Zudem wird bei den Entwicklern eher der Fokus auf den nächsten Schritt gefördert. Diese Punkte machen diese Entwicklungspraktik bei korrekter Anwendung zu einer erfolgreichen Praktik in der Entwicklung.
+Die nächste vorgestellte Praktik ist die modellgetriebene Entwicklung. Dabei wird durch die Nutzung von Modellen und Codegeneratoren, wie im Abschnitt oben erläutert, die Produktivität und Qualität des Teams merkbar gesteigert. Da man bei der Kommunikation zwischen dem Entwicklerteam und dem Product Owner die gewünschten Features für alle verständlich aufzeigen muss, helfen diese Modelle besonders dabei. Zusätzlich kann durch die Codegenerierung Entwicklungsarbeit eingespart werden.
+Die dritte aufgezeigte Praktik ist die verteilte Entwicklung. Da ein Scrum Team häufig nicht vom selben Standort agiert, ist es von großem Vorteil die Prinzipien der verteilten Entwicklung zu nutzen. Dabei fördert man dadurch die standortunabhängige Zusammenarbeit des Entwicklerteams oder der Entwicklerteams. Diese Praktik erweist sich als erfolgreiche Entwicklungspraktik, da durch sie eine reibungslose Zusammenarbeit von Teams an verschiedenen Standorten möglich gemacht wird.
+Diese Praktiken können ein Entwicklungsvorgang effizient und agil unterstützen. Dabei helfen sie die Zusammenarbeit des Teams oder der Teams zu fördern und stoßen die Kreativität der einzelnen Entwickler an. [@2011agile]
 
 ## Aktuell häufig angewandte Praktiken
 
-Welche Praktiken werden aus aktueller Sicht häufig angewandt und warum?
+Es gibt viele verschiedene Entwicklungspraktiken, welche jedoch alle dasselbe Ziel verfolgen. Dieses Ziel ist, das Entwicklerteam auf dem Entwicklungsweg zu unterstützen und das erreichen dieses zu erleichtern. 
+Aus aktueller Sicht werden die oben erläuterten Entwicklungspraktiken, nämlich die testgetriebene Entwicklung, die modellgetriebene Entwicklung und die verteilte Entwicklung, häufig angewandt. Diese unterstützen die Entwicklerteams bei ihrer Arbeit. Dabei kann es in Zeiten wie der Corona Pandemie zu Komplikationen kommen. Durch diese Komplikationen sind die Entwickler beispielsweise auf einmal darauf angewiesen von zu Hause oder von entfernten Standorten zusammen zu entwickeln. Dabei kann beispielsweise die Praktik der verteilten Entwicklung sehr hilfreich werden. 
+Auch können sie bei ihrer arbeit durch das Nutzen der testgetriebenen Entwicklung unterstützt werden, da viele moderne Projekte eine hohe Testabdeckung erzielen wollen, da dies besonders in sicherheitskritischen Projekten von hoher Wichtigkeit ist. Durch die dazu kommende Komplexität durch größere Vernetztheit, muss ebenfalls jede Schnittstelle ausgiebig getestet werden. [@2011agile]
 
 ## Kosten der Praktiken
 
-Welche Kosten sind mit den Praktiken verbunden?
+Die Kosten für diese Praktiken sind unterschiedlich. Man muss auch beachten, dass durch das korrekte Einpflegen einer solchen Praktik an einer Stelle Kosten geschaffen werden, welche jedoch an einer anderen Stelle wieder entfallen. 
+Bei der testgetriebenen Entwicklung sind die anfallenden Kosten Schulungskosten. Das heißt, dass bei der Einführung von testgetriebener Entwicklung die Entwickler geschult werden müssen, wie sie Anforderungen in atomare Funktionseinheiten zerlegen können. Zudem ist Konsequenz der Entwickler nötig. Dabei fällt es Entwicklern welche noch kaum Erfahrung besitzen deutlich schwerer diese Praktik erfolgreich einzusetzen. Dadurch ergibt sich eine höhere Einarbeitungszeit. Zudem ist die Nutzung der testgetriebenen Entwicklung kein Ersatz für alle anderen Testarten, welche man zusätzlich einpflegen muss. [@2020tddwiki]
+Bei der modellgetriebenen Entwicklung fallen häufig Kosten bei der Initialisierung des Projektes an. Das heißt, dass es bei komplexeren Projekten meist schwer sein kann eine geeignete domänenspezifische Sprache zu entwickeln. Da die Modelle meist nur Teilaspekte des Projektes abbilden, wird häufig der eigentliche Aufwand sehr unterschätzt. Durch diese Punkte erhöht sich der Kostenfaktor der Praktik. [@2020mdsdwiki]
+Die verteilte Entwicklung trägt den Hauptkostenpunkt im Aspekt der Ausbildung aller Standorte. Dabei ist es wichtig, dass alle Entwickler an allen Standorten die gleiche Ausbildung erhalten und somit kann diese Praktik nicht zum Outsourcing und das damit gewünschte Minimieren der Kosten genutzt werden. Zusätzlich fallen bei Notwendigen Reisen an die verschiedenen Standorte kosten an. Auch das Veranstalten von grösseren Teamtreffen von verschiedenen Standorten erhöht die Kosten. [@2016vd]
+Die genauen Kosten für jede einzelne Pratik kann schwer beziehungsweise fast unmöglich in Zahlen gefasst werden. Ebenfalls kann man kaum den Mehrwert schätzen. Erfahrungswerte verschiedenster Teams haben jedoch gezeigt, dass das Einbinden der verschiedenen Entwicklungspraktiken in ein oder mehrere Entwicklerteams meistens die Agilität und Effektivität steigert und ein qualitativ hochwertigeres Arbeiten ermöglicht. [@2011agile]
 
-# Zusammenfassung
+# Auswertung
+
+In diesem Kapitel wird sich mit der Auswertung der erlangten Kenntnissen auseinandergesetzt. Dazu wird der Inhalt dieser Arbeit noch einmal aufbereitet und zusammengefasst um die Zusammenhänge, welche erarbeitet wurden zu veranschaulichen. Die Problemstellung der Arbeit war, herauszufinden welche Entwicklungspraktiken aktuell besonders relevant sind, welche von ihnen aktuell häufig angewandt werden, was für Kosten dabei entstehen und was überhaupt eine erfolgreiche Entwicklungspraktik ist. 
+
+## Zusammenfassung
+
+Zuerst wurden zu Anfangs Grundlagen für das grobe Verständnis von Scrum und den einzelnen Scrum Rollen geschaffen. Dort wurden die drei beziehungsweise vier Scrum Rollen vorgestellt. 
+Danach wurden Grundlagen im Bereich der vorzustellenden Entwicklungspraktiken geschaffen. Dazu gehören Grundlagen über das Refactoring, die Continuous Integration, das Pair Programming und die Collective Ownership. 
+Daraufhin wurden die drei eigentlichen Entwicklungspraktiken, nämlich die testgetriebene Entwicklung, die modellgetriebene Entwicklung und die verteilte Entwicklung vorgestellt und in den Zusammenhang mit den zuvor beschriebenen Praktiken gesetzt. Dabei wurde der Gesamtfokus auf den Zusammenhang dieser im Scrum Kontext gelegt. 
+Dann wurden die drei Leitfragen, wie was überhaupt eine erfolgreiche Praktik in der Entwicklung ist, welche Praktiken aus aktueller Sicht häufig angewandt wird und wieso, sowie welche Kosten mit den einzelnen Praktiken verbunden sind, aufgegriffen und beantwortet. 
 
 ## Fazit
+
+Es gibt viele verschiedene Entwicklungspraktiken, welche in verschiedenen Konstellationen miteinander genutzt werden können. Es gibt kein Geheimrezept, womit man die perfekte Zusammenarbeit dieser Entwicklungspraktiken vorhersagen kann. In einem Scrum Team kommt es daher häufig dazu, dass mehrere Praktiken gemeinsam genutzt werden. Welche dabei eingebunden werden muss das Scrum Team für dich entscheiden. Dabei sollte darauf geachtet werden keine unnötige Komplexität zu schaffen und die eigentlichen Ziele nicht aus den Augen zu verlieren. Die Kosten beziehungsweise der Aufwand welcher dabei auftritt ist von Praktik zu Praktik unterschiedlich und kann unmöglich genau bestimmt werden. Es kann lediglich davon ausgegangen werden, dass bestimmte Entwicklungspraktiken Vorteile bieten, welche den mitgelieferten Nachteilen überlegen sind.
 
 # Quellen
