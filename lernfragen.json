@@ -112,7 +112,7 @@
       },
       {
          "text":"Welches ist keine technische Anforderung beim schreiben von Akzeptanztests?",
-         "bereich":"agile",
+         "bereich":"testing",
          "level":"schwer",
          "antworten":[
             {
