@@ -1,26 +1,136 @@
 {
-    "fragen":[
-       {
-          "text":"text",
-          "bereich":"scrum",
-          "level":"mittel",
-          "antworten":[
-             {
-                "text":"text",
-                "korrekt":false,
-                "warum":"text"
-             },
-             {
-                "text":"text",
-                "korrekt":false,
-                "warum":"text"
-             },
-             {
-                "text":"text",
-                "korrekt":true,
-                "warum":"text"
-             }
-          ]
-       }
-    ]
- }
+   "fragen":[
+      {
+         "text":"Welche der genannten Praktiken ist keine Entwicklungspraktik in der Software Entwicklung?",
+         "bereich":"entwicklungpraktiken",
+         "level":"einfach",
+         "antworten":[
+            {
+               "text":"Die testgetriebene Entwicklung",
+               "korrekt":false,
+               "warum":"Die testgetriebene Entwicklung ist eine Entwicklungspraktik und kann im Scrum Kontext verwendet werden."
+            },
+            {
+               "text":"Die modellgetriebene Entwicklung",
+               "korrekt":false,
+               "warum":"Die modellgetriebene Entwicklung ist eine Entwicklungspraktik und kann im Scrum Kontext verwendet werden."
+            },
+            {
+               "text":"Die flexible Entwicklung",
+               "korrekt":true,
+               "warum":"Korrekte Antwort! Die flexible Entwicklung ist nicht existent."
+            }
+         ]
+      },
+      {
+         "text":"Können die Kosten von Entwicklungspraktiken genau geschätzt werden?",
+         "bereich":"entwicklungspraktiken",
+         "level":"einfach",
+         "antworten":[
+            {
+               "text":"Ja, da man alle vorhandenen Variablen kennt und daher auch die genauen Kosten.",
+               "korrekt":false,
+               "warum":"Man kann die Kosten der Entwicklungsprakiken unmöglich genau schätzen."
+            },
+            {
+               "text":"Ja, da man diese aus dem gewonnenen Mehrwert für das Projekt und Team abschätzen kann.",
+               "korrekt":false,
+               "warum":"Man kann die Kosten der Entwicklungsprakiken unmöglich genau schätzen und erstrecht nicht anhand des Mehrwertes."
+            },
+            {
+               "text":"Nein, da jedes Entwicklerteam und Projekt auf verschiedenste Praktiken unterschiedlich reagiert.",
+               "korrekt":true,
+               "warum":"Korrekte Antwort!"
+            }
+         ]
+      },
+      {
+         "text":"Wie wird bei der testgetriebenen Entwicklung normalerweise vorgegangen?",
+         "bereich":"entwicklungpraktiken",
+         "level":"mittel",
+         "antworten":[
+            {
+               "text":"Refactoring -> Schreiben eines fehlschlagenden Tests -> Test wird durch Änderungen am Code zum erfolg gebracht",
+               "korrekt":false,
+               "warum":"Das Refactoring wird erst am Ende des Vorgehens angewandt und nicht am Anfang des Vorgangs."
+            },
+            {
+               "text":"Schreiben eines fehlschlagenden Tests -> Refactoring -> Test wird durch Änderungen am Code zum erfolg gebracht",
+               "korrekt":false,
+               "warum":"Das Refactoring wird erst am Ende des Vorgehens angewandt und nicht in der Mitte des Vorgangs."
+            },
+            {
+               "text":"Schreiben eines fehlschlagenden Tests -> Test wird durch Änderungen am Code zum erfolg gebracht -> Refactoring",
+               "korrekt":true,
+               "warum":"Korrekte Antwort!"
+            }
+         ]
+      },
+      {
+         "text":"Was ist beim Refactoring zu beachten?",
+         "bereich":"entwicklungpraktiken",
+         "level":"mittel",
+         "antworten":[
+            {
+               "text":"Man darf nur die äussere Struktur der Software verändern ohne die inneren Verhaltensweisen zu ändern.",
+               "korrekt":false,
+               "warum":"Es werden nur die inneren Strukturen verändert, die äusseren bleiben unverändert."
+            },
+            {
+               "text":"Auf innere Änderungen am Code folgen die äusseren Änderungen des Codes.",
+               "korrekt":false,
+               "warum":"Es werden nur die inneren Strukturen verändert, die äusseren bleiben unverändert."
+            },
+            {
+               "text":"Man darf nur die innere Struktur der Software verändern ohne die von aussen betrachtbare Verhaltensweise zu ändern.",
+               "korrekt":true,
+               "warum":"Korrekte Antwort!"
+            }
+         ]
+      },
+      {
+         "text":"Welche Nachteile haben die verteilten Teams in der verteilten Entwicklung?",
+         "bereich":"entwicklungpraktiken",
+         "level":"schwer",
+         "antworten":[
+            {
+               "text":"Durch abgeschottete Teams bilden sich gemeinsame Entwicklungskulturen.",
+               "korrekt":false,
+               "warum":"Im Gegenteil: Es bilden sich unterschiedliche Entwicklungskulturen, was einen Nachteil beschreibt."
+            },
+            {
+               "text":"Längere Dauer bei der Teambildung.",
+               "korrekt":false,
+               "warum":"Dies ist kein Nachteil der verteilten Teams, sondern der verstreuten Teams."
+            },
+            {
+               "text":"Erschwerte Teamübergreifende Kommunikation und die daraus resultierende unterschiedlichen Entwicklungskulturen, sowie der Mangel von konzeptioneller Integrität.",
+               "korrekt":true,
+               "warum":"Korrekte Antwort!"
+            }
+         ]
+      },
+      {
+         "text":"Welches ist keine technische Anforderung beim schreiben von Akzeptanztests?",
+         "bereich":"agile",
+         "level":"schwer",
+         "antworten":[
+            {
+               "text":"Stabilität",
+               "korrekt":false,
+               "warum":"Die Stabilität ist eine technische Anforderung, da Tests eindeutig scheitern oder erfolgreich sein müssen."
+            },
+            {
+               "text":"Umgebungsneutralität",
+               "korrekt":false,
+               "warum":"Die Umgebungsneutralität ist eine technische Anforderung, da die Tests lokal sowie auf einem remote Rechner ausgeführt können werden müssen."
+            },
+            {
+               "text":"Skalierbarkeit",
+               "korrekt":true,
+               "warum":"Korrekte Antwort! Skalierbarkeit ist keine technische Anforderung nach Pichler und Roock (Agile Entwicklungspraktiken mit Scrum)."
+            }
+         ]
+      }
+   ]
+}
